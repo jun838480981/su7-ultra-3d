@@ -27,6 +27,6 @@ Additional polish:
 - Specs tab: visible 3D label count = 0.
 - No `undefined` / `NaN` rendered text.
 - Mobile 390×844: dock bounds `left 8 → right 382` (no horizontal overflow), `.dock-toggles` hidden as designed.
-- Final screenshots: `screenshots/01…20-*.png`; 0 console errors during capture.
+- Final screenshots: `screenshots/01…19-*.png`; 0 console errors during capture.
 
 *Fix note prepared by the project lead; the original independent QA report is preserved above as the audit trail.*
